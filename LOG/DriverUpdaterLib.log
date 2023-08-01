@@ -1,0 +1,23 @@
+﻿[2023-08-01 04:46:10.011] [info   ] [settings   ] [ 6228:16680] [9434E9: 334] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2023-08-01 04:46:10.016] [info   ] [ini_access ] [ 6228:16680] [AFA3D5: 130] watch task for C:\அறிவிலி\CCleaner\Data\settings.ini started
+[2023-08-01 04:46:10.016] [info   ] [ini_access ] [ 6228:16680] [AFA3D5: 130] watch task for C:\அறிவிலி\CCleaner\Setup\config.def started
+[2023-08-01 04:46:10.016] [info   ] [ini_access ] [ 6228:16680] [AFA3D5: 130] watch task for C:\அறிவிலி\CCleaner\Data\usercfg.ini started
+[2023-08-01 04:46:10.021] [warning] [Burger     ] [ 6228:16680] [FDA25D: 164] [23.1.806.0] [BurgerReporter.cpp] [164] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2023-08-01 04:46:10.021] [error  ] [Burger     ] [ 6228:16680] [FDA25D: 244] [23.1.806.0] [BurgerReporter.cpp] [244] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2023-08-01 04:46:10.021] [warning] [Burger     ] [ 6228:16680] [FDA25D: 247] [23.1.806.0] [BurgerReporter.cpp] [247] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2023-08-01 04:46:10.021] [error  ] [Burger     ] [ 6228:16680] [FDA25D: 244] [23.1.806.0] [BurgerReporter.cpp] [244] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2023-08-01 04:46:10.021] [warning] [Burger     ] [ 6228:16680] [FDA25D: 247] [23.1.806.0] [BurgerReporter.cpp] [247] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2023-08-01 04:46:10.021] [warning] [Burger     ] [ 6228:16680] [FDA25D: 271] [23.1.806.0] [BurgerReporter.cpp] [271] asw::standalone_svc::BurgerReporter::GASwitch: Property GDPR_THIRD_PARTY_ANALYTICS_ENABLED not found, set default value
+[2023-08-01 04:46:10.021] [warning] [Burger     ] [ 6228:16680] [FDA25D: 164] [23.1.806.0] [BurgerReporter.cpp] [164] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2023-08-01 04:46:10.031] [warning] [ini_access ] [ 6228: 2740] [AFA3D5: 145] C:\அறிவிலி\CCleaner\Setup overlapped IO failed, error: 995.
+[2023-08-01 04:47:10.021] [info   ] [ini_access ] [ 6228:15996] [AFA3D5: 130] watch task for C:\அறிவிலி\CCleaner\Data\burger_client.ini started
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  75] watch task termination for C:\அறிவிலி\CCleaner\Data\settings.ini requested
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  91] watch task for C:\அறிவிலி\CCleaner\Data\settings.ini gracefully terminated
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  75] watch task termination for C:\அறிவிலி\CCleaner\Setup\config.def requested
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  91] watch task for C:\அறிவிலி\CCleaner\Setup\config.def gracefully terminated
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  75] watch task termination for C:\அறிவிலி\CCleaner\Data\usercfg.ini requested
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  91] watch task for C:\அறிவிலி\CCleaner\Data\usercfg.ini gracefully terminated
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  75] watch task termination for C:\அறிவிலி\CCleaner\Data\burger_client.ini requested
+[2023-08-01 04:47:45.091] [info   ] [ini_access ] [ 6228: 6068] [AFA3D5:  91] watch task for C:\அறிவிலி\CCleaner\Data\burger_client.ini gracefully terminated
+[2023-08-01 04:47:45.201] [info   ] [log_module ] [ 6228: 6068] [A09DA8:  31] LogModule is going to be destroyed.
+[2023-08-01 04:47:45.201] [info   ] [log_module ] [ 6228: 6068] [A09DA8:  32] =====================================================================================================================

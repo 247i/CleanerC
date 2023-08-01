@@ -1,0 +1,31 @@
+{
+	"Backups" : [],
+	"DeviceList" : [],
+	"IgnoreList" : [],
+	"OpenTasks" : [],
+	"Status" : 
+	{
+		"foundDevices" : 0,
+		"lastScan" : 0,
+		"outdatedDrivers" : 0,
+		"rebootRequired" : false,
+		"version" : "23.1.806.0",
+		"vulnerableDrivers" : 0
+	},
+	"computerInfo" : 
+	{
+		"baseboard_manufacturer" : "Dell Inc.",
+		"baseboard_product" : "077FXN",
+		"baseboard_version" : "A01",
+		"bios_manufacturer" : "Dell Inc.",
+		"bios_name" : "1.14.1",
+		"bios_smbios_version" : "1.14.1",
+		"bios_version" : "DELL   - 2",
+		"model" : "Latitude 7430",
+		"system_family" : "Latitude",
+		"system_sku" : "0B0C",
+		"type" : "laptop",
+		"vendor" : "Dell Inc."
+	},
+	"hasProblemList" : []
+}
